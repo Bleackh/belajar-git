@@ -8,3 +8,6 @@ console.log(subtract(1, 2));
 
 const multiplay = (a, b) => a * b;
 console.log(multiplay(2, 2));
+
+const divide = (a, b) => a / b;
+console.log(divide(4, 2));
